@@ -176,7 +176,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>346.000000:1032.000000</string>
+				<string>346.000000:986.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/English.lproj/main.nib</string>
 			</dict>
@@ -284,7 +284,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>346.000000:848.000000</string>
+				<string>346.000000:803.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Set Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -382,7 +382,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>346.000000:744.000000</string>
+				<string>346.000000:699.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Choose from List.action/Contents/Resources/English.lproj/main.nib</string>
 			</dict>
@@ -490,7 +490,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>346.000000:638.000000</string>
+				<string>346.000000:594.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Set Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -659,7 +659,7 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>346.000000:534.000000</string>
+				<string>346.000000:490.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/English.lproj/main.nib</string>
 			</dict>
@@ -669,33 +669,33 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>24FE76A3-63BA-4455-8363-409022563BF7</key>
+		<key>41F945C1-37B4-4945-B338-B14742A88F73</key>
+		<dict>
+			<key>from</key>
+			<string>643E766D-7877-4227-8D84-D049BFFB945E - 643E766D-7877-4227-8D84-D049BFFB945E</string>
+			<key>to</key>
+			<string>5A3FF360-C40E-4514-B9CA-B82B3F49848A - 5A3FF360-C40E-4514-B9CA-B82B3F49848A</string>
+		</dict>
+		<key>6953D0D5-9061-492E-8FD4-0FFB6555F53E</key>
 		<dict>
 			<key>from</key>
 			<string>82ED5FB9-0B30-4030-B903-EEEA76C630F8 - 82ED5FB9-0B30-4030-B903-EEEA76C630F8</string>
 			<key>to</key>
 			<string>1B98244C-B012-47F0-AC49-757480A17A5F - 1B98244C-B012-47F0-AC49-757480A17A5F</string>
 		</dict>
-		<key>7673545D-123F-4CDF-A328-4325369DCD6F</key>
+		<key>6AD401C3-9798-40EB-AC99-6813C1164D33</key>
 		<dict>
 			<key>from</key>
 			<string>1B98244C-B012-47F0-AC49-757480A17A5F - 1B98244C-B012-47F0-AC49-757480A17A5F</string>
 			<key>to</key>
 			<string>9B0A59B9-DA4F-419D-AEFE-FA66F5579EAD - 9B0A59B9-DA4F-419D-AEFE-FA66F5579EAD</string>
 		</dict>
-		<key>A087629A-97AD-4446-B0F0-BCAA314497FE</key>
+		<key>D221D748-DA0C-435E-B790-9C0D337194D8</key>
 		<dict>
 			<key>from</key>
 			<string>5A3FF360-C40E-4514-B9CA-B82B3F49848A - 5A3FF360-C40E-4514-B9CA-B82B3F49848A</string>
 			<key>to</key>
 			<string>82ED5FB9-0B30-4030-B903-EEEA76C630F8 - 82ED5FB9-0B30-4030-B903-EEEA76C630F8</string>
-		</dict>
-		<key>FE691CAB-9A15-46C4-9040-74578DC5D0BB</key>
-		<dict>
-			<key>from</key>
-			<string>643E766D-7877-4227-8D84-D049BFFB945E - 643E766D-7877-4227-8D84-D049BFFB945E</string>
-			<key>to</key>
-			<string>5A3FF360-C40E-4514-B9CA-B82B3F49848A - 5A3FF360-C40E-4514-B9CA-B82B3F49848A</string>
 		</dict>
 	</dict>
 	<key>variables</key>
@@ -720,7 +720,7 @@
 	<key>workflowMetaData</key>
 	<dict>
 		<key>workflowTypeIdentifier</key>
-		<string>com.apple.Automator.application</string>
+		<string>com.apple.Automator.workflow</string>
 	</dict>
 </dict>
 </plist>
